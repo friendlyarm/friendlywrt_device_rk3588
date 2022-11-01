@@ -17,6 +17,7 @@ FRIENDLYWRT_FILES+=(device/common/emmc-tools)
 FRIENDLYWRT_FILES+=(device/common/distfeeds)
 FRIENDLYWRT_FILES+=(device/common/default-settings)
 FRIENDLYWRT_FILES+=(device/friendlyelec/rk3588/r8125)
+FRIENDLYWRT_FILES+=(device/friendlyelec/rk3588/eeprom)
 
 # U-boot
 # 
